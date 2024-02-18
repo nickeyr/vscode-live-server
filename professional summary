@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>Professional Summary</title>
+<center>
+<h1>Nickeddie Rivera & Tzaddi Bennett</h1>
+<img srs="nick.jpg" width="100" height="100" align= "center">
+<img srs="tzad.jpg" width="100" height="100" align="center">
+<address>
+EMAIL:<a HREF ="2021153845@ub.edu.bz","2020253433"> Nickeddie Rivera & Tzaddi Bennett</a><br>
+<p>Phone Number: 601-2529, 634-5081</p>
+</address>
+</center>
+<detials>
+<BODY bgcolor=" sky blue"></BODY>
+<h2>Summary:</h2>
+<p> We are self motivated and focus with great abilities and knowledge, who exceeds at priortizing and completing assigned task. seeking to grow and develop at your organization. </p>
+<h2>Skills:</h2>
+<ul type="square"><li>Excellent Verabl, written and communication skills</li>
+    <li>Excellent Time Management</li>
+    <li>Planning and organizing skills</li>
+    <li>Proficiency in Microsoft Office, Word & Powerpoint</li>
+    </ul>
+<h2>Education:</h2>
+<table>
+    <Table Border="1" width="50%">
+        <CAPTION> <h3> Classes Taken</h3></CAPTION>
+        <TR><TH bgcolor=teal> Course Name</TH><th bgcolor=teal>Semester</th><th bgcolor=teal>Grade</th></TR>
+        <TR><Td bgcolor= silver> Principle of Accounting</TD><TD bgcolor=silver> 1</TD><TD bgcolor=silver> 95%</TD></TR>
+        <tr><td bgcolor=silver> Intermediate Algebra</td><td bgcolor=silver> 1</td><TD bgcolor=silver> 85&</TD></tr>
+        <tr><td bgcolor="silver"> Computer Business Application</td><td bgcolor=silver> 3</td><td bgcolor="silver"> 100&</td>
+    </table>
+<h2>References:</h2>
+<p>*Samantha Smith, 501 822-4589</p>
+<p>* Mark Anthonio, 501 822-1699</p>
+</detials>
+
